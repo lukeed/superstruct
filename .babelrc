@@ -1,8 +1,0 @@
-{
-  "plugins": [
-    "dev-expression",
-    "transform-async-to-generator",
-    "transform-es2015-modules-commonjs",
-    "transform-object-rest-spread"
-  ]
-}

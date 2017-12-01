@@ -1,7 +1,6 @@
-
-import assert from 'assert'
 import fs from 'fs'
-import { pick } from 'lodash'
+import assert from 'assert'
+import pick from 'lodash.pick'
 import { basename, extname, resolve } from 'path'
 
 /**

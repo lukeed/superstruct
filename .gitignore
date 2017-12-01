@@ -1,6 +1,5 @@
 .DS_Store
-umd
 lib
 node_modules
 npm-debug.log
-tmp
+.reify-cache
